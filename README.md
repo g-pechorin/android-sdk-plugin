@@ -62,7 +62,7 @@ found on the #sbt-android IRC channel on Freenode
    addSbtPlugin("com.hanhuy.sbt" % "android-sdk-plugin" % "1.5.19")
    ```
    
-2 Set the environment variable `ANDROID_HOME` pointing to the path where the
+2. Set the environment variable `ANDROID_HOME` pointing to the path where the
      Android SDK is unpacked.
 3. Create a new android project using `gen-android` if the plugin is installed
    globally
